@@ -7,7 +7,7 @@
 
 <div>
   <div align="center">
-    <a href="https://leetcode.com/u/sumaira476/” target="_blank">
+    <a href="https://leetcode.com/u/sumaira476/" target="_blank">
       <img src=https://img.shields.io/badge/leetcode-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.linkedin.com/in/sumaira-shaikh-581358214/" target="_blank">
