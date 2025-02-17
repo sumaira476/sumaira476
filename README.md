@@ -33,7 +33,7 @@
   <tr>
     <td colspan="2">
       <a href="https://github.com/sumaira476">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul1028&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumaira476&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
       </a>
     </td>
   </tr>
@@ -44,7 +44,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/Abdul1028">
+      <a href="https://github.com/sumaira476">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumaira476&theme=nord_dark">
       </a>
     </td>
